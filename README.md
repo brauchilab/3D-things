@@ -5,39 +5,65 @@
 ### 1.1. Round chamber V1
 ![Alt text](/CHAMBERS/Round/Round%20Chamber%20V1.png)
 ### 1.2. Round chamber V2
+![Alt text](/CHAMBERS/Round/Round%20Chamber%20V2.png)
 ### 1.3. Round chamber V3
+![Alt text](/CHAMBERS/Round/Round%20Chamber%20V3.png)
 
 ### 1.4. Rectangle chamber V1
+![Alt text](/CHAMBERS/Rectangle/Rectangular%20Chamber%20V1%20part1.png)
+![Alt text](/CHAMBERS/Rectangle/Rectangular%20Chamber%20V1%20part2.png)
 ### 1.5. Rectangle chamber V2
-
+![Alt text](/CHAMBERS/Rectangle/Rectangular%20Chamber%20V2%20part1.png)
+![Alt text](/CHAMBERS/Rectangle/Rectangular%20Chamber%20V2%20part2.png)
 ### 1.6. Fernanda's chamber V1
+![Alt text](CHAMBERS/Fernanda/V1/Fernanda's%20Chamber%20V1.png)
 ### 1.6. Fernanda's chamber V2
+![Alt text](CHAMBERS/Fernanda/V2/Fernanda's%20Chamber%20V2.png)
 ### 1.6. Fernanda's chamber V3
+![Alt text](CHAMBERS/Fernanda/V3/Fernanda's%20Chamber%20V3.png)
 ### 1.6. Fernanda's chamber V4
+![Alt text](CHAMBERS/Fernanda/V4/Fernanda's%20Chamber%20V4.png)
 
 ## 2. Holders
 
 ### 2.1. Round holder
+![Alt text](HOLDERS/Round%20Chamber%20Holder/Round%20chamber%20holder.png)
 ### 2.2. Round holder for round holder (holder di holder)
+![Alt text](HOLDERS/Holder%20di%20holder/Holder%20di%20holder.png)
 
 ## 3. Supports
 
 ### 3.1. Syringes support V1
+![Alt text](SOPORTES/Soporte%20Jeringas/Soporte%20jeringas%20part1y2.png)
+
 ### 3.2. Syringes support V2
+![Alt text](SOPORTES/Soporte%20Jeringas/Soporte%20jeringas%20part1.png)
+![Alt text](SOPORTES/Soporte%20Jeringas/Soporte%20jeringas%20part2.png)
+![Alt text](SOPORTES/Soporte%20Jeringas/Soporte%20jeringas_tornillo.png)
 ### 3.3. Valves support V1
+![Alt text](SOPORTES/Soporte%20V%C3%A1lvulas/Soporte%20V%C3%A1lvulas%20V1.png)
 ### 3.4. Valves support V2
+![Alt text](SOPORTES/Soporte%20V%C3%A1lvulas/Soporte%20V%C3%A1lvulas%20V2.png)
 
 ## 4. MISC
 
 ### 4.1. Adaptador centrífuga
+![Alt text](MISC/Adaptador%20centr%C3%ADfuga/Adaptador%20de%20centr%C3%ADfuga.png)
 ### 4.2. Adaptador con soporte manguera V1
+![Alt text](MISC/Adaptador%20con%20soporte%20manguera/Adaptador%20con%20soporte%20de%20manguera%20V1.png)
 ### 4.3. Adaptador con soporte manguera V2
+![Alt text](MISC/Adaptador%20con%20soporte%20manguera/Adaptador%20con%20soporte%20de%20manguera%20V2.png)
 ### 4.4. C-mount V1
+![Alt text](MISC/C-mount/C%20Mount%20V1.png)
 ### 4.5. C-mount V2
+![Alt text](MISC/C-mount/C%20Mount%20V2.png)
 ### 4.6. Filter holder
+![Alt text](MISC/FIlter%20Holder/FIlter%20Holder.png)
 ### 4.7. Hose Clamp
+![Alt text](MISC/Hose%20Clamp/Clamp.png)
 ### 4.8. Caja Switch (Brauswitch)
-
+![Alt text](MISC/CajaSwitch/CajaSwitch.png)
+![Alt text](MISC/CajaSwitch/Tapa%20switch.png)
 
 
 
