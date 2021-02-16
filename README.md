@@ -3,7 +3,7 @@
 ## 1. Chambers
 
 ### 1.1. Round chamber V1
-![Alt text](/CHAMBERS/Round/Round Chamber V1.png?raw=true "Title")
+![Alt text](CHAMBERS/Round/Round Chamber V1.png?raw=true "Title")
 ### 1.2. Round chamber V2
 ### 1.3. Round chamber V3
 
