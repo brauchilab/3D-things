@@ -3,7 +3,7 @@
 ## 1. Chambers
 
 ### 1.1. Round chamber V1
-![Alt text](https://github.com/brauchilab/3D-things/blob/main/CHAMBERS/Round/Round%20Chamber%20V1.png)
+![Alt text](/CHAMBERS/Round/Round%20Chamber%20V1.png)
 ### 1.2. Round chamber V2
 ### 1.3. Round chamber V3
 
