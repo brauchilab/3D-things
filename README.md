@@ -64,11 +64,14 @@
 ### 4.8. ![Caja Switch (Brauswitch)](MISC/CajaSwitch/)
 ![Alt text](MISC/CajaSwitch/CajaSwitch.png)
 ![Alt text](MISC/CajaSwitch/Tapa%20switch.png)
+
 ### 4.9. ![Pieza cilíndrica hilada](/MISC/Pieza%20Cil%C3%ADndrica%20Hilada/)
 ![Alt text](/MISC/Pieza%20Cil%C3%ADndrica%20Hilada/PiezaCil%C3%ADdricaHilada.png)
+
 ### 4.10. ![CP06_M - 30 mm (M3 y M4)](MISC/CP06/)
 ![Alt text](MISC/CP06/CP06_M%20-%2030%20mm%20(M3%20y%20M4).png)
-### 4.11. ![Adaptador ShutterLaser](MISC/Adaptador%20ShutterLaser/Shutter%20a%20bayoneta(laser).png)
+
+### 4.11. ![Adaptador ShutterLaser](MISC/Adaptador%20ShutterLaser/)
 ![Alt text](MISC/Adaptador%20ShutterLaser/Bayoneta%20a%20shutter.png)
 ![Alt text](MISC/Adaptador%20ShutterLaser/Shutter%20a%20bayoneta(laser).png)
 
